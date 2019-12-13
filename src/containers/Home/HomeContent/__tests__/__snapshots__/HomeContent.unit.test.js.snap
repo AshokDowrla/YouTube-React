@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeContent renders 1`] = `
+<Fragment>
+  <div
+    className="home-content"
+  >
+    <div
+      className="responsive-video-grid-container"
+    >
+      <InfiniteScroll>
+        <VideoGrid
+          title="Trending"
+          videos={Array []}
+        />
+      </InfiniteScroll>
+    </div>
+  </div>
+</Fragment>
+`;

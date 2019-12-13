@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideBarItem Render highlighted SideBarItem 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`SideBarItem Render non-highlighted SideBarItem 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
