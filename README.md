@@ -1,3 +1,44 @@
+## ABOUT
+
+This repository is the source code for the epic length Build Youtube in React tutorial series provided by productioncoder.com.
+
+https://productioncoder.com/build-youtube-in-react-part-1/
+
+
+# DEMO
+
+FireBase DEMO - https://react-54599.firebaseapp.com/
+
+
+# Features
+
+This application includes the major features of Youtube such as
+
+### home feed with infinite scroll
+### searching for videos
+### watching videos
+### displaying comments and video details
+
+# Technologies Used
+
+### React / create-react-app
+### Redux
+### Redux-saga
+### Redux-reselect
+### Jest
+### Enzyme
+### Semantic UI
+### CSS Grid / Flexbox
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
