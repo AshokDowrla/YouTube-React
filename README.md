@@ -9,7 +9,7 @@ https://productioncoder.com/build-youtube-in-react-part-1/
 
 FireBase DEMO - https://react-54599.firebaseapp.com/
 
-![alt text](http://url/to/img.png)
+![HomePage](images/Home.png?raw=true "Home")
 
 
 # Features
